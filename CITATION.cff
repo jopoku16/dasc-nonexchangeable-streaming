@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this code or manuscript, please cite this work."
+title: "Drift-Aware Spectral Conformal Prediction for Non-Exchangeable Streaming Data"
+authors:
+  - family-names: Opoku
+    given-names: Jeffery
+    affiliation: "The University of Texas Rio Grande Valley"
+    email: "jeffery.opoku01@utrgv.edu"
+  - family-names: Banahene
+    given-names: David
+    affiliation: "Florida International University"
+    email: "abanahene54@gmail.com"
+year: 2026
+type: article
+keywords:
+  - conformal prediction
+  - streaming data
+  - distribution shift
+  - spectral methods
+  - uncertainty quantification
+  - adaptive conformal inference
+license: MIT

@@ -1,0 +1,41 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# LaTeX build files
+*.aux
+*.blg
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Downloaded data and downloaded literature
+data/real/
+literature/*.pdf
+literature/papers/
+
+# Large generated intermediates
+results/*_results.csv
+results/*_timeseries.csv
+results/synthetic_stream_seed*.csv
+results/dasc_best_tuned_results.csv
+
+# Submission bundles generated from source
+arxiv_submission/
+arxiv_submission_source_only_clean/
+submission_package/
+preprint_upload_package/
+layout_check_pages_arxiv/
+*.zip
+
